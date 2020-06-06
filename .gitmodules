@@ -1,0 +1,3 @@
+[submodule "src/Module2"]
+	path = src/Module2
+	url = https://github.com/opawar/Module2.git
